@@ -13,12 +13,6 @@
 
 ---
 
-## 🕒 WakaTime Stats
-[![WakaTime](https://wakatime.com/share/@UmbraKrow/<widget_id>.svg)](https://wakatime.com/share/@UmbraKrow/<widget_id>.svg
-)
-
----
-
 ## 🌐 Соцсети
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_ник)
