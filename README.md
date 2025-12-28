@@ -20,34 +20,7 @@
 
 ---
 
-## 🎵 Сейчас слушаю
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312nsx7qs4magun5ft7atg3nsqzm&cover_image=true&theme=default&show_offline=false&bar_color=1DB954&bar_color_cover=false)](https://open.spotify.com/user/312nsx7qs4magun5ft7atg3nsqzm)
-
----
-
 ## 🌐 Соцсети
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_ник)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/твой_ник)
-
----
-
-## 🖼 Любимый персонаж
-<!-- Вставьте GIF сюда -->
-![Мой любимый персонаж](ссылка_на_GIF)
-
----
-
-<!--
-## 🏆 Проекты
-- [Название проекта](ссылка) — краткое описание
-- [Название проекта](ссылка) — краткое описание
-
-## 🎯 Достижения
-- Достижение 1
-- Достижение 2
--->
-
----
-
-> "Автоматизация — это путь к свободе для мозга." 💡
