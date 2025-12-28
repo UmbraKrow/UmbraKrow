@@ -14,9 +14,8 @@
 ---
 
 ## 📊 GitHub статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmbraKrow&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraKrow&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmbraKrow&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmbraKrow&show_icons=true&theme=radical&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraKrow&layout=compact&theme=radical&include_all_commits=true)
 
 ---
 
