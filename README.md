@@ -13,9 +13,8 @@
 
 ---
 
-## 📊 GitHub статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmbraKrow&show_icons=true&theme=radical&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraKrow&layout=compact&theme=radical&include_all_commits=true)
+## 🕒 WakaTime Stats
+![WakaTime](https://wakatime.com/share/@UmbraKrow/<widget_id>.svg)
 
 ---
 
