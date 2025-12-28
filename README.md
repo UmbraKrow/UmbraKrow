@@ -21,7 +21,7 @@
 ---
 
 ## 🎵 Сейчас слушаю
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=твой_spotify_uid&cover_image=true&theme=default&show_offline=false&bar_color=1DB954&bar_color_cover=false)](https://open.spotify.com/user/твой_spotify_uid)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312nsx7qs4magun5ft7atg3nsqzm&cover_image=true&theme=default&show_offline=false&bar_color=1DB954&bar_color_cover=false)](https://open.spotify.com/user/312nsx7qs4magun5ft7atg3nsqzm)
 
 ---
 
