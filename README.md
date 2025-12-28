@@ -14,7 +14,8 @@
 ---
 
 ## 🕒 WakaTime Stats
-![WakaTime](https://wakatime.com/share/@UmbraKrow/<widget_id>.svg)
+[![WakaTime](https://wakatime.com/share/@UmbraKrow/<widget_id>.svg)](https://wakatime.com/share/@UmbraKrow/<widget_id>.svg
+)
 
 ---
 
